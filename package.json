@@ -1,0 +1,13 @@
+{
+  "name": "alerta-betano",
+  "version": "1.0.0",
+  "description": "Bot de alertas automáticos de jogos com API-Football",
+  "main": "alerta_bot.js",
+  "scripts": {
+    "start": "node alerta_bot.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.6.1",
+    "node-fetch": "^2.7.0"
+  }
+}
